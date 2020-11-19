@@ -15,11 +15,11 @@ Resume will be up soon...
 
 
 <a href="https://github.com/cyeehan/cyeehan">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyeehan&show_icons=true&theme=gruvbox&count_private=true" alt="Yee Han's Github stats" />
+  <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=gruvbox&count_private=true" alt="Yee Han's Github stats" />
 </a>
 
 <a href="https://github.com/cyeehan/cyeehan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyeehan&layout=compact&theme=gruvbox" alt="Yee Han's most used languages" />
+  <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=cyeehan&langs_count=10&layout=compact&theme=gruvbox&count_private=true" alt="Yee Han's most used languages" />
 </a>
 
 
