@@ -1,56 +1,70 @@
 ## Hi there, I'm Yee Han 👋
 
+<div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cyeehan.visitor-badge)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cyeehan.visitor-badge)
 
-
-I am a final semester Computer Science student at INTI International University in collaboration with Coventry University, UK.
-
-Currently learning Full-Stack Development and being a Microsoft Malaysia Modern Workplace Squad member to spread positivity by providing technical and educational solutions.
-
-- 🔭 I’m currently working on my exciting industry final year project and other courses.
-- 💼 I'll be a Software Engineer Intern at <a href="https://www.fusionex-international.com/">Fusionex International</a> in January 2021.
-
-Resume will be up soon...
+</div>
 
 
-<a href="https://github.com/cyeehan/cyeehan">
-  <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=gruvbox&count_private=true" alt="Yee Han's Github stats" />
-</a>
-
-<a href="https://github.com/cyeehan/cyeehan">
-  <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=cyeehan&langs_count=10&layout=compact&theme=gruvbox&count_private=true" alt="Yee Han's most used languages" />
-</a>
+- 📋 Final semester Computer Science student at INTI International University (collab. with Coventry University, UK)
+- 🔭 Currently working on my exciting industry final year project and other courses.
+- 👓 Learning Full-Stack Development and being a Microsoft Malaysia Modern Workplace Squad member to spread positivity by providing technical and educational solutions.
 
 
-### Programming Languages
+<div align="center">
+  <a href="https://github.com/cyeehan/cyeehan">
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" alt="Yee Han's Github stats" align="center" />
+  </a>
+</div>
 
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<br/>
 
-<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
-<img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-
-<img align="left" alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-
-<img align="left" alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-
-<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-
-<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/graphql.svg" />
-
-<br /><br />
+<div align="center">
+  <a href="https://github.com/cyeehan/cyeehan">
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=cyeehan&langs_count=10&layout=compact&theme=gruvbox&count_private=true&hide_title=true" alt="Yee Han's most used languages" />
+  </a>
+</div>
 
 
-### Frameworks
+<div align="center">
 
-<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gatsby.svg" />
+  ### Programming Languages
 
-<br /><br />
+  <img align="center" alt="java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 
+  <img align="center" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
-### Libraries
+  <img align="center" alt="html5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
-<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/react.svg" />
+  <img align="center" alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 
-<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/d3-dot-js.svg" />
+  <img align="center" alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+
+  <img align="center" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+
+  <img align="center" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/graphql.svg" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  ### Frameworks
+
+  <img align="center" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gatsby.svg" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  ### Libraries
+
+  <img align="center" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/react.svg" />
+
+  <img align="center" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/d3-dot-js.svg" />
+
+</div>
