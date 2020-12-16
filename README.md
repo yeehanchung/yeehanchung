@@ -1,64 +1,30 @@
-## Hi there, I'm Yee Han 👋
+
+- Hi there, I'm [Yee Han](https://yeehan.dev/) 🙋‍♂️ who is an incoming Software Engineer Intern at [Fusionex International](https://www.fusionex-international.com/), and a part of [Microsoft Malaysia](https://www.microsoft.com/en-my) 🇲🇾 **Modern Workplace Squad** to spread positivity by providing technical and educational solutions to employee, employers, and students.
+- I speak/write English, Mandarin, and Cantonese.
 
 <div>
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cyeehan.visitor-badge)
-
+  <table>
+    <thead>
+      <tr><th> Topic <th> Listing
+    </thead>
+    <tbody>
+      <tr> <td> Programming Languages <td> JavaScript, Java, HTML5, CSS3/SCSS, GraphQL, PHP, SQL
+      <tr> <td> Frameworks <td> Gatsby, Bootstrap
+      <tr> <td> Libraries <td> React, D3
+      <tr> <td> Tools <td> Git, VSCode, Photoshop, Figma, Trello
+      <tr> <td> PaaS <td> Netlify, Heroku
+      <tr> <td> BaaS <td> Google Firebase
+      <tr> <td> Methodologies <td> Scrum, Kanban, Project Management Process (PMP)
+  </table>
 </div>
-
-<br/>
 
 <div>
   <a href="https://github.com/cyeehan/cyeehan">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" alt="Yee Han's Github stats" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=gruvbox&count_private=true&hide_title=true&include_all_commits=true&hide_border=true" alt="Yee Han's Github stats" />
   </a>
-</div>
-
-<div>
   <a href="https://github.com/cyeehan/cyeehan">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=cyeehan&langs_count=6&layout=compact&theme=gruvbox&count_private=true&hide_title=true" alt="Yee Han's most used languages" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=cyeehan&langs_count=6&layout=compact&theme=gruvbox&count_private=true&hide_title=false&card_width=445" alt="Yee Han's most used languages" />
   </a>
 </div>
 
-
-<div align="left">
-
-  ### Programming Languages
-
-  <img alt="java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-
-  <img alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
-  <img alt="html5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-
-  <img alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-
-  <img alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-
-  <img alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-
-  <img alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/graphql.svg" />
-
-</div>
-
-<br />
-
-<div align="left">
-
-  ### Frameworks
-
-  <img align="center" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gatsby.svg" />
-
-</div>
-
-<br />
-
-<div align="left">
-
-  ### Libraries
-
-  <img alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/react.svg" />
-
-  <img alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/d3-dot-js.svg" />
-
-</div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cyeehan.visitor-badge)
