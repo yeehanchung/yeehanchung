@@ -1,6 +1,6 @@
 ## About
 
-- Hi there, I'm [Yee Han](https://yeehan.dev/) 🙋‍♂️ studied B. Computer Science, majoring in Software Engineering at [INTI International University](https://newinti.edu.my/) in collab. with [Coventry University](https://www.coventry.ac.uk/). I'm also a software engineer intern at [Fusionex International](https://www.fusionex-international.com/), and a part of [Microsoft Malaysia](https://www.microsoft.com/en-my) 🇲🇾 **Modern Workplace Squad** to spread positivity by providing technical and educational solutions to employee, employers, and students. By the way, I speak English, Mandarin and Cantonese.
+- Hi there, I'm [Yee Han](https://yeehan.me/) 🙋‍♂️ studied B. Computer Science, majoring in Software Engineering at [INTI International University](https://newinti.edu.my/) in collab. with [Coventry University](https://www.coventry.ac.uk/). I'm also a software engineer intern at [Fusionex International](https://www.fusionex-international.com/), and a part of [Microsoft Malaysia](https://www.microsoft.com/en-my) 🇲🇾 **Modern Workplace Squad** to spread positivity by providing technical and educational solutions to employee, employers, and students. By the way, I speak English, Mandarin and Cantonese.
 
 ![Views](https://visitor-badge.glitch.me/badge?page_id=cyeehan.visitor-badge)
 
@@ -13,7 +13,7 @@
     </thead>
     <tbody>
       <tr> <td> Programming Languages <td> JavaScript, Java, HTML5, CSS3/SASS, GraphQL, PHP, SQL
-      <tr> <td> Frameworks <td> Gatsby, Bootstrap
+      <tr> <td> Frameworks <td> Gatsby, Bootstrap, Express.js
       <tr> <td> Libraries <td> React, D3
       <tr> <td> Tools <td> Git, VSCode, Android Studio, Photoshop, Figma, Trello, Docusaurus
       <tr> <td> PaaS <td> Netlify, Heroku, Vercel
