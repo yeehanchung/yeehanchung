@@ -17,7 +17,7 @@
       <tr> <td> Libraries <td> React, D3
       <tr> <td> Tools <td> Git, Node.js, VSCode, Photoshop, Figma, Trello, Docusaurus
       <tr> <td> PaaS <td> Netlify, Heroku, Vercel
-      <tr> <td> BaaS <td> Firebase, MongoDB
+      <tr> <td> BaaS <td> Firebase
       <tr> <td> Methodologies <td> PXP, XP, PMP, Scrum, Kanban
   </table>
 </div>
