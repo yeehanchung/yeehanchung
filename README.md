@@ -9,16 +9,14 @@
 <div>
   <table>
     <thead>
-      <tr><th> Topic <th> Listing
+      <tr><th> Stack <th> List
     </thead>
     <tbody>
-      <tr> <td> Programming Languages <td> JavaScript, Java, HTML5, CSS3/SASS, GraphQL, PHP, SQL
-      <tr> <td> Frameworks <td> Gatsby, Bootstrap, Express.js
-      <tr> <td> Libraries <td> React, D3
-      <tr> <td> Tools <td> Git, Node.js, VSCode, Photoshop, Figma, Trello, Docusaurus
-      <tr> <td> PaaS <td> Netlify, Heroku, Vercel
-      <tr> <td> BaaS <td> Firebase
-      <tr> <td> Methodologies <td> PXP, XP, PMP, Scrum, Kanban
+      <tr> <td> Programming Languages <td> JavaScript, TypeScript, PHP, SQL, GraphQL, HTML5, CSS3/SCSS
+      <tr> <td> Frontend <td> React, Redux, D3, Bootstrap, styled-components, CSS3/SCSS
+      <tr> <td> Backend <td> Node.js, REST API
+      <tr> <td> Database <td> MySql, Google Firestore
+      <tr> <td> Technologies <td> Git, VSCode, Photoshop, Trello
   </table>
 </div>
 
