@@ -15,7 +15,7 @@
       <tr> <td> Programming Languages <td> JavaScript, TypeScript, PHP, SQL, GraphQL, HTML5, CSS3/SCSS
       <tr> <td> Frontend <td> React, Redux, D3, Bootstrap, styled-components, CSS3/SCSS
       <tr> <td> Backend <td> Node.js, REST API
-      <tr> <td> Database <td> MySql, Google Firestore
+      <tr> <td> Database <td> MySQL, Google Firestore
       <tr> <td> Technologies <td> Git, VSCode, Photoshop, Trello
   </table>
 </div>
