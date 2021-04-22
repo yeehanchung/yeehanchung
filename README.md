@@ -12,7 +12,7 @@
       <tr><th> Stack <th> List
     </thead>
     <tbody>
-      <tr> <td> Programming Languages <td> JavaScript, TypeScript, MySQL, PHP, GraphQL
+      <tr> <td> Programming Languages <td> JavaScript, TypeScript, SQL, PHP, GraphQL
       <tr> <td> Frontend <td> React, Redux, D3, Bootstrap, styled-components, CSS3/SCSS
       <tr> <td> Backend <td> Node.js, REST API
       <tr> <td> Database <td> MySQL, Google Firestore
