@@ -1,8 +1,6 @@
 ## About
 
-- Hi there, I'm a Software Engineer Intern at [Fusionex International](https://www.fusionex-international.com/).
-- Also a part of [Microsoft Malaysia](https://www.microsoft.com/en-my) 🇲🇾 **Modern Workplace Squad** to spread positivity by providing technical and educational solutions to employee, employers, and students.
-- By the way, I speak/write English, Mandarin, and Cantonese.
+- Hi there! I speak/write English, Mandarin, and Cantonese.
 
 ## Skills
 
