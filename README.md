@@ -2,6 +2,23 @@
 
 - Hi there! I speak/write English, Mandarin, and Cantonese.
 
+## Skills
+
+<div>
+  <table>
+    <thead>
+      <tr><th> Stack <th> List
+    </thead>
+    <tbody>
+      <tr> <td> Programming Languages <td> JavaScript, TypeScript, SQL, PHP, GraphQL
+      <tr> <td> Frontend <td> React, Redux, D3, Bootstrap, styled-components, CSS3/SCSS
+      <tr> <td> Backend <td> Node.js, REST API
+      <tr> <td> Database <td> MySQL, Google Firebase
+      <tr> <td> Technologies <td> Git, VSCode, Photoshop, Trello
+      <tr> <td> Methodologies <td> Scrum, Kanban
+  </table>
+</div>
+
 ## GitHub stats
 
 *(does not wholly represent my expertise)*
