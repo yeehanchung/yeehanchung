@@ -2,7 +2,7 @@
 
 - My name is Yeehan - He/his - INFJ.
 - Speak English, Mandarin, and Cantonese.
-- Beside working as a Software Engineer, I spend the rest of my day on learning, writing blog contents, and side hustles
+- Beside working as a Software Engineer, I spend the rest of my day on learning, writing blog contents, and side hustles.
 
 ### 🍳 Skills
 
