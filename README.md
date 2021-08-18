@@ -30,7 +30,7 @@
 
 <div>
   <a href="https://github.com/cyeehan/cyeehan">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=default&hide_border=true&icon_color=DB4437&title_color=663399&count_private=true&include_all_commits=true&hide=issues" alt="Yee Han's Github stats" height="213" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=default&hide_border=true&icon_color=DB4437&title_color=663399&count_private=true&include_all_commits=true&hide=issues" alt="Yee Han's Github stats" height="188" />
   </a>
 </div>
 
