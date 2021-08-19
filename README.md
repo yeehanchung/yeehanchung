@@ -9,7 +9,7 @@
 
 - Work with interesting developers.
 - Focus more on TypeScript/JavaScript.
-- [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making my existing repositories public.
+- [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making my existing private repositories public.
 - Complete all courses purchased (AlgoExpert, Udemy, JJS, and React).
 - Write more articles on [yeehan.me/tech](https://www.yeehan.me/tech).
 - [Ship Work that Matters](https://basecamp.com/shapeup).
@@ -31,7 +31,7 @@
 
 <div>
   <a href="https://github.com/cyeehan/cyeehan">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=default&hide_border=true&icon_color=DB4437&title_color=663399&count_private=true&include_all_commits=true&hide=issues" alt="Yee Han's Github stats" height="188" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=default&hide_border=true&icon_color=DB4437&title_color=663399&count_private=true&include_all_commits=true&hide=issues" alt="Yee Han's Github stats" height="175" />
   </a>
 </div>
 
