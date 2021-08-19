@@ -7,8 +7,8 @@
 
 ### Goals in 2021 🎯
 
-- Network with interesting developers.
-- Build more solid frontend fundamentals (TS + JS).
+- Work with interesting developers.
+- Focus more on TypeScript/JavaScript.
 - [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making my existing repositories public.
 - Complete all courses purchased (AlgoExpert, Udemy, JJS, and React).
 - Write more articles on [yeehan.me/tech](https://www.yeehan.me/tech).
