@@ -1,4 +1,4 @@
-<a href=""><img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=cyeehan.7d1947dbe)"></a>
+<a href=""><img alt="Profile Views" src="https://gpvc.arturio.dev/cyeehan"></a>
 ### Hello 👋
 
 - My name is Yeehan - He/his - INFJ - 🐐 - ♑️ .
