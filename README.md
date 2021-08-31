@@ -3,14 +3,14 @@
 
 - My name is Yeehan - He/his - INFJ - 🐐 - ♑️ .
 - Speak English, 华语, and 粤语.
-- Graduated in May 2021 with Bac. of Comp. Sci. in Software Engineering.
+- Graduated in May 2021 with Bac. of Comp. Sci. in Software Engineering with 1st Class Honours.
 
 ### Goals in 2021 🎯
 
 - Work with interesting developers.
 - Focus more on TypeScript/JavaScript.
-- [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making my existing private repositories public.
-- Complete all courses purchased (AlgoExpert, Udemy, JJS, and React).
+- [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making private repositories to public.
+- Complete all courses purchased.
 - Write more articles on [yeehan.me/tech](https://www.yeehan.me/tech).
 - [Ship Work that Matters](https://basecamp.com/shapeup).
 ### Skills ☕︎🥞
@@ -31,17 +31,16 @@
 
 <div>
   <a href="https://github.com/cyeehan/cyeehan">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=default&hide_border=true&icon_color=DB4437&title_color=663399&count_private=true&include_all_commits=true&hide=issues" alt="Yee Han's Github stats" height="175" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=default&hide_border=true&icon_color=DB4437&title_color=663399&count_private=true&include_all_commits=true&hide=issues,commits" alt="Yee Han's Github stats" height="175" />
   </a>
 </div>
 
 ### Internet Profile 🌐
 
 <!-- 1. LinkedIn -->
-<!-- 2. Hashnode -->
-<!-- 3. Dev.to -->
-<!-- 4. Twitter -->
-<!-- 5. More -->
+<!-- 2. Blog -->
+<!-- 3. Twitter -->
+<!-- 4. More -->
 <a href="https://www.linkedin.com/in/cyeehan/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&&logo=linkedin&logoColor=white" height="25" /></a>
 <a href="https://www.yeehan.me/tech"><img alt="My Tech Blog" src="https://img.shields.io/badge/-Blog-663399?&style=flat-square&&logo=gatsby&logoColor=white" height="25" /></a>
 <a href="https://twitter.com/cyeehannn"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-square&&logo=twitter&logoColor=white" height="25" /></a>
