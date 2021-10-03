@@ -3,17 +3,17 @@
 
 - My name is Yeehan - He/his - INFJ - 🐐 - ♑️ .
 - Speak English, 华语, and 粤语.
-- Graduated in May 2021 with Bac. of Comp. Sci. in Software Engineering with 1st Class Honours.
+- Graduated in May 2021 (Comp. Science, Software Engineering) with 1st Class (Hons).
 
 ### Goals in 2021 🎯
 
-- Work with interesting developers.
-- Focus more on TypeScript/JavaScript.
+- Focus on Full-stack/Front-end development.
 - [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making private repositories to public.
 - Complete all courses purchased.
 - Write more articles on [yeehan.me/tech](https://www.yeehan.me/tech).
 - [Ship Work that Matters](https://basecamp.com/shapeup).
-### Skills ☕︎🥞
+
+<!-- ### Skills ☕︎🥞
 
 <div>
   <table>
@@ -27,7 +27,7 @@
       <tr> <td> Database <td> MySQL, Firebase
       <tr> <td> Technologies <td> Git, Puppeteer, Photoshop, Figma
   </table>
-</div>
+</div> -->
 
 <!-- <div>
   <a href="https://github.com/cyeehan/cyeehan">
