@@ -1,7 +1,7 @@
 <a href=""><img alt="Profile Views" src="https://gpvc.arturio.dev/cyeehan"></a>
 ### Hello 👋
 
-- My name is Yeehan - He/his - INFJ - 🐐 - ♑️ .
+- My name is Yeehan - He/him - INFJ - 🐐 - ♑️ .
 - Speak English, 华语, and 粤语.
 - Graduated in May 2021 (Comp. Science, Software Engineering) with 1st Class (Hons).
 
