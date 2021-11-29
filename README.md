@@ -3,7 +3,6 @@
 
 - My name is Yeehan - He/him - INFJ - 🐐 - ♑️ .
 - Speak English, 华语, and 粤语.
-- Graduated in May 2021 (Comp. Science, Software Engineering) with 1st Class (Hons).
 
 ### Goals in 2021 🎯
 
