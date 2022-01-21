@@ -1,16 +1,22 @@
 <a href=""><img alt="Profile Views" src="https://gpvc.arturio.dev/cyeehan"></a>
 ### Hello 👋
 
-- My name is Yeehan - He/him - INFJ - 🐐 - ♑️ .
-- Speak English, 华语, and 粤语.
+- My name is Yeehan.
+
+### Goals in 2022 🎯
+
+- [ ] Focus on full-stack frontend development.
+- [ ] Build small frontend pet projects.
+- [ ] Read 4 engineering books [0/4].
+- [ ] Work with interesting people.
 
 ### Goals in 2021 🎯
 
-- Focus on Full-stack/Front-end development.
-- [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making private repositories to public.
-- Complete all courses purchased: [2/5].
-- Write more articles on [yeehan.me/tech](https://www.yeehan.me/tech).
-- [Ship Work that Matters](https://basecamp.com/shapeup).
+- [x] Focus on Full-stack/Front-end development.
+- [x] [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making private repositories to public.
+- [ ] Complete all courses purchased: [2/5].
+- [x] Write articles on [yeehan.me/tech](https://www.yeehan.me/tech).
+- [x] [Ship Work that Matters](https://basecamp.com/shapeup).
 
 <!-- ### Skills ☕︎🥞
 
