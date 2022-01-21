@@ -9,6 +9,7 @@
 - [ ] Build small frontend pet projects.
 - [ ] Read 4 engineering books [0/4].
 - [ ] Work with interesting people.
+- [ ] Complete all courses purchased: [2/5].
 
 ### Goals in 2021 🎯
 
