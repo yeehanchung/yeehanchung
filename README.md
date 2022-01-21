@@ -5,7 +5,6 @@
 
 ### Goals in 2022 🎯
 
-- [ ] Focus on full-stack frontend development.
 - [ ] Build small frontend pet projects.
 - [ ] Read 4 engineering books [0/4].
 - [ ] Work with interesting people.
