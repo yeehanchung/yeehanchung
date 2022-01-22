@@ -1,44 +1,8 @@
 <a href=""><img alt="Profile Views" src="https://gpvc.arturio.dev/cyeehan"></a>
+
 ### Hello 👋
 
 - My name is Yeehan.
-
-### Goals in 2022 🎯
-
-- [ ] Build small frontend pet projects.
-- [ ] Read 4 engineering books [0/4].
-- [ ] Work with interesting people.
-- [ ] Complete all courses purchased: [2/5].
-
-### Goals in 2021 🎯
-
-- [x] Focus on Full-stack/Front-end development.
-- [x] [Sucking Less](https://blog.codinghorror.com/sucking-less-every-year/) by making private repositories to public.
-- [ ] Complete all courses purchased: [2/5].
-- [x] Write articles on [yeehan.me/tech](https://www.yeehan.me/tech).
-- [x] [Ship Work that Matters](https://basecamp.com/shapeup).
-
-<!-- ### Skills ☕︎🥞
-
-<div>
-  <table>
-    <thead>
-      <tr><th> Stack <th> Tools
-    </thead>
-    <tbody>
-      <tr> <td> Programming Languages <td> JavaScript, TypeScript, SQL, GraphQL
-      <tr> <td> Frontend <td> React, Redux, Gatsby, Ant Design, Bootstrap, D3
-      <tr> <td> Backend <td> Node.js (Express.js)
-      <tr> <td> Database <td> MySQL, Firebase
-      <tr> <td> Technologies <td> Git, Puppeteer, Photoshop, Figma
-  </table>
-</div> -->
-
-<!-- <div>
-  <a href="https://github.com/cyeehan/cyeehan">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=cyeehan&show_icons=true&theme=default&hide_border=true&icon_color=DB4437&title_color=663399&count_private=true&include_all_commits=true&hide=issues,commits" alt="Yee Han's Github stats" height="134" />
-  </a>
-</div> -->
 
 ### Internet Profile 🌐
 
@@ -52,7 +16,3 @@
 <a href="https://www.google.com/search?q=yee+han+chung"><img alt="More" src="https://img.shields.io/badge/-More-DB4437?&style=flat-square&&logo=google&logoColor=white" height="25" /></a>
 
 > "Perseverance doesn't come from turning off your emotions and keeping a stiff upper lip. It comes from really caring about what you're doing." [Inc. Magazine](https://www.inc.com/jessica-stillman/leadership-tips-stress-burnout-health-care.html)
-
-<!-- Buy me a coffee -->
-<!-- *Your support matters* <br/>
-<a href="https://www.buymeacoffee.com/cyeehan"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?&style=flat-square&&logo=buy%20me%20a%20coffee&logoColor=black" height="25" /></a> -->
