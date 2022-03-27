@@ -8,8 +8,8 @@
 
 ### 3 things about me
 
-- I love dogs and cats, and I had a Siamese cat that I still miss until today.
-- I am very friendly 😊.
+- I love dogs and cats, and I had a cute Siamese cat.
+- I am a friendly person 😊.
 - I was a hardcore gamer, and played a lot of games in the past. Here is my [Steam profile](https://steamcommunity.com/profiles/76561198068565447).
 
 ### Internet Profile 🌐
