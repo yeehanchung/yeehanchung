@@ -4,7 +4,6 @@
 
 - My name is Yeehan.
 - Currently working at Eezee Singapore as a Full-stack Engineer.
-- Started as a junior Full-stack developer, and gradually specializes in Front-end engineering, but still loving Back-end.
 
 ### 3 things about me
 
