@@ -14,7 +14,7 @@
 
 <!-- <div> -->
   <a href="https://github.com/yeehanchung">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=yeehanchung&show_icons=true&theme=default&line_height=32&card_width=388px&hide_title=true&text_color=495057&count_private=true&include_all_commits=true" alt="Yeehan's Github stats" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=yeehanchung&show_icons=true&theme=default&line_height=32&card_width=388&hide_title=true&text_color=495057&count_private=true&include_all_commits=true" alt="Yeehan's Github stats" />
   </a>
   <!-- <a href="https://github.com/yeehanchung">
     <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=yeehanchung&langs_count=6&layout=compact&theme=default&count_private=true&hide_title=false&card_width=445" alt="Yee Han's most used languages" height="150" />
